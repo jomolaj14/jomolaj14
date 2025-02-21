@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JOMOL A J</h1>
-<h3 align="center">A passionate meranstack Developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
 
