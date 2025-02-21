@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ajjomol2004@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact, **I enjoy solving challenges,both in coding and in everyday life!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
